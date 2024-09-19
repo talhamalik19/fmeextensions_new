@@ -8,7 +8,7 @@ const Layout = ({ children, globalMagento, user, setUser, pageData, currencyData
       <Seo seo={pageData} />
       <Navigation getPageData={getPageData} globalMagento={globalMagento} user={user} setUser={setUser} currencyData={currencyData} storeData={storeData} selectedCurrency={selectedCurrency} selectedStore={selectedStore} isBlog={isBlog} sarabun={sarabun} />
       {children}
-      {!MobileDevice && <Footer globalMagento={globalMagento} storeData={storeData} selectedStore={selectedStore} setUser={setUser} />}
+      {<Footer globalMagento={globalMagento} storeData={storeData} selectedStore={selectedStore} setUser={setUser} />}
     </>
   );
 };

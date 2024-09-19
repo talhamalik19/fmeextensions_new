@@ -74,7 +74,7 @@ const getProductPageComponents = (productBasicInfo, update, configuration_id, Mo
     configuration_id
   },
   {
-    __component: MobileDevice ? '' : 'blocks-product-features',
+    __component: 'blocks-product-features',
     pageName: 'product detail',
     product: productBasicInfo,
   }];
