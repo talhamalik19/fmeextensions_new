@@ -6,7 +6,7 @@ export default function handler(req, res) {
         const token = res.req.query.token;
         const value = res.req.query.value;
 
-        if (token === 'ATBBEn6X4jwjc2tDmDRM69eGTdzrB92DC01B') {
+        if (token === process.env.NEXT_PUBLIC_URL) {
             const filePath = path.join(process.cwd(), 'json', 'trigger.json');
             
             // Convert value to boolean
