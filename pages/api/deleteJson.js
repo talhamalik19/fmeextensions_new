@@ -7,7 +7,7 @@ export default function handler(req, res) {
         const file = res.req.query.file;
         const action = res.req.query.action;
 
-        if (token !== process.env.NEXT_PUBLIC_URL) {
+        if (token !== "ATBBEn6X4jwjc2tDmDRM69eGTdzrB92DC01B") {
             return res.status(403).json({ message: 'Forbidden' });
         }
 
