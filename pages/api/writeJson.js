@@ -25,7 +25,7 @@ export default function handler(req, res) {
 
             fs.writeFile(filePath, JSON.stringify(data), (err) => {
                 if (err) {
-                    res.status(500).json({ message: 'Error writing JSON file' });
+                    res.status(500).json({ message: err });
                 } else {
                     res.status(200).json({ message: `Updated ${booleanValue}` });
                 }
