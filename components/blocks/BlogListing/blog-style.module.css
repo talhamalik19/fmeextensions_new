@@ -1,0 +1,3 @@
+.sliderBackground {
+    background-image: var(--bg-image, none);
+  }

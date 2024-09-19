@@ -1,0 +1,88 @@
+
+export default ({ }) => {
+
+    return (
+        <>
+            <div className="prod_card"><svg className="svg-placeholder" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="myGradient" gradientTransform="rotate(20)">
+                        <stop offset="5%" stopColor="#eee">
+                            <animate attributeName="stop-color" values="#EEEEEE; #CCCCCC; #EEEEEE" dur="2s" repeatCount="indefinite"></animate>
+                        </stop>
+                        <stop offset="95%" stopColor="#f6f6f6">
+                            <animate attributeName="stop-color" values="#EEEEEE; #DDDDDD; #EEEEEE" dur="3s" repeatCount="indefinite"></animate>
+                        </stop>
+                    </linearGradient>
+                </defs>
+                <rect fill="url(#myGradient)" className="svg-placeholder-image" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-title" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-date" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-review" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-description-first-line" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-description-second-line" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-author-name" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-button" rx="25" ry="25" />
+            </svg></div>
+            <div className="prod_card"><svg className="svg-placeholder" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="myGradient" gradientTransform="rotate(20)">
+                        <stop offset="5%" stopColor="#eee">
+                            <animate attributeName="stop-color" values="#EEEEEE; #CCCCCC; #EEEEEE" dur="2s" repeatCount="indefinite"></animate>
+                        </stop>
+                        <stop offset="95%" stopColor="#f6f6f6">
+                            <animate attributeName="stop-color" values="#EEEEEE; #DDDDDD; #EEEEEE" dur="3s" repeatCount="indefinite"></animate>
+                        </stop>
+                    </linearGradient>
+                </defs>
+                <rect fill="url(#myGradient)" className="svg-placeholder-image" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-title" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-date" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-review" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-description-first-line" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-description-second-line" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-author-name" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-button" rx="25" ry="25" />
+            </svg></div>
+            <div className="prod_card"><svg className="svg-placeholder" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="myGradient" gradientTransform="rotate(20)">
+                        <stop offset="5%" stopColor="#eee">
+                            <animate attributeName="stop-color" values="#EEEEEE; #CCCCCC; #EEEEEE" dur="2s" repeatCount="indefinite"></animate>
+                        </stop>
+                        <stop offset="95%" stopColor="#f6f6f6">
+                            <animate attributeName="stop-color" values="#EEEEEE; #DDDDDD; #EEEEEE" dur="3s" repeatCount="indefinite"></animate>
+                        </stop>
+                    </linearGradient>
+                </defs>
+                <rect fill="url(#myGradient)" className="svg-placeholder-image" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-title" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-date" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-review" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-description-first-line" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-description-second-line" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-author-name" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-button" rx="25" ry="25" />
+            </svg></div>
+            <div className="prod_card"><svg className="svg-placeholder" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="myGradient" gradientTransform="rotate(20)">
+                        <stop offset="5%" stopColor="#eee">
+                            <animate attributeName="stop-color" values="#EEEEEE; #CCCCCC; #EEEEEE" dur="2s" repeatCount="indefinite"></animate>
+                        </stop>
+                        <stop offset="95%" stopColor="#f6f6f6">
+                            <animate attributeName="stop-color" values="#EEEEEE; #DDDDDD; #EEEEEE" dur="3s" repeatCount="indefinite"></animate>
+                        </stop>
+                    </linearGradient>
+                </defs>
+                <rect fill="url(#myGradient)" className="svg-placeholder-image" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-title" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-date" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-review" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-description-first-line" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-description-second-line" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-author-name" />
+                <rect fill="url(#myGradient)" className="svg-placeholder-button" rx="25" ry="25" />
+            </svg></div>
+        </>
+    )
+}

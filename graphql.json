@@ -1,0 +1,324 @@
+[
+    {
+        "__component": "blocks-gallery-features",
+        "heading": "How Magento 2 Product Attachments Benefits You?",
+        "description": "Magento 2 Automatic Related Products extension is designed to analyze the interests of online store visitors and show them relevant cross-sell and upsell offers. It is possible because of a smart system of autosuggestions that uses rules based on product conditions and helps to offer customers only those goods that are more likely to be additionally purchased.",
+        "pointss": [
+            "Choose THe Source Type",
+            "Apply the same as condition",
+            "Choose how to show blocks",
+            "Replace item manually",
+            "Up-sell and cross-cell various pages",
+            "Link products together",
+            "Display popup for configurables",
+            "Show AJAX confirmation popup"
+        ],
+        "magentoImageSlider": [
+            {
+                "image": "images/magento-image-slider.png",
+                "slideText": "Show Dependent Filter"
+            },
+            {
+                "image": "images/magento-image-slider.png",
+                "slideText": "Show Dependent Filter"
+            },
+            {
+                "image": "images/magento-image-slider.png",
+                "slideText": "Show Dependent Filter"
+            }
+        ]
+    },
+    {
+        "__component": "blocks-icons-description",
+        "iconCenterAlign": true,
+        "sectionBg": false,
+        "heading": "HOW MAGENTO 2 PRODUCT ATTACHMENTS BENEFITS YOU?",
+        "description": "Magento Full Page Cache helps optimize Magento speed by caching store pages. It reduces the load time, the server load, which helps ranking high at Google, and ultimately increasing the sales.",
+        "cards": [
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/icon-1.png",
+                    "alt": ""
+                },
+                "title": "Enrich Product Pages with Content",
+                "text": "You can add content in a great variety of formats as product attachments to make the landing pages more informative."
+            },
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/icon-2.png",
+                    "alt": ""
+                },
+                "title": "Manage Product Documentation",
+                "text": "Manage all the downloadable files on a dedicated page and control its distribution with download limits."
+            },
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/icon-3.png",
+                    "alt": ""
+                },
+                "title": "Pursue Higher Conversion Rate",
+                "text": "Provide maximum product information with interactive media and content formats to pursue higher conversions."
+            }
+        ],
+        "text": "A premier Magento solutions provider, FME is a 360-degree Magento development powerhouse.",
+        "button": {
+            "text": "Buy Now",
+            "href": "/"
+        }
+    },
+    {
+        "__component": "blocks-product-feature-twocol",
+        "sectionBg": true,
+        "leftImage": true,
+        "heading": "Attach Files To Products & CMS Pages",
+        "description": "You need to make your product page as informative as possible to help customers fully understand the product and make a purchase decision. They may need explainer video, user manual, warranties etc. to remove any ambiguities they may have. The product attachments extension for Magento 2 creates an attachment tab on your product page and/or a separate file download page that displays all the files you have attached to the product. The extension supports pdf, txt, docs, ppt, xls, zip, rar, mp3, mp4, jpg, jpeg, png, gif and other file types.",
+        "image": {
+            "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/Attach-Files-to-Product-Pages.png",
+            "alt": "Attach Files To Products & CMS Pages"
+        }
+    },
+    {
+        "__component": "blocks-product-feature-twocol",
+        "sectionBg": false,
+        "leftImage": false,
+        "heading": "Separate Files Listing & Download Page",
+        "description": "Attach as many files as you need. If you have multiple attachments of different nature, you can display them on a dedicated page. Properly organize your files by putting them under relevant categories in the form of folders and sub folders.",
+        "options": [
+            {
+                "text": "Configuration Options",
+                "list": [
+                    "Add & display file descriptions",
+                    "Enable footer link (Quick Links)",
+                    "Add custom title for files listing page",
+                    "Supports 1, 2 & 3 column layout"
+                ]
+            }
+        ],
+        "image": {
+            "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/Separate-Files-Listing-_-Download-Page.png",
+            "alt": ""
+        }
+    },
+    {
+        "__component": "blocks-product-feature-twocol",
+        "sectionBg": true,
+        "leftImage": true,
+        "heading": "Create & Manage File Categories",
+        "description": "To manage the file download page, this Magento 2 file upload extension lets you add, edit or remove categories on a single grid to classify files in the most relevant section. These categories will then appear as organized files on the “File Download” page.",
+        "title": "Category / Sub Categories",
+        "text": "You can create independent categories for grouping files, whereas sub-categories can also be created under the parent group.",
+        "image": {
+            "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/Create-_-Manage-Categories.png",
+            "alt": ""
+        }
+    },
+    {
+        "__component": "blocks-product-feature-twocol",
+        "sectionBg": false,
+        "leftImage": false,
+        "heading": "3 Methods to Upload & Attach New Files",
+        "description": "There are 3 easy methods you can upload and attach files:",
+        "options": [
+            {
+                "text": "1) Manage Files (Standard Method): Upload new files and attach them to specific products and CMS pages. Customizable options allow you to restrict products by store views and customer groups and assign category to display product on File download page."
+            },
+            {
+                "text": "2) Upload from Product & CMS Grid (Quick Method): With Quick method, you can drag & drop to upload files from Product and CMS grid view. Once you’ve added files, they will be visible to all customer groups by default."
+            },
+            {
+                "text": "3) Upload from Product & CMS Page (Basic Method): This is the standard method in which you can upload files and restrict their access to specific customer groups from product edit sheet."
+            }
+        ],
+        "image": {
+            "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/Separate-Files-Listing-_-Download-Page.png",
+            "alt": ""
+        }
+    },
+    {
+        "__component": "blocks-product-feature-twocol",
+        "sectionBg": false,
+        "leftImage": true,
+        "heading": "Manage File Formats & Icons",
+        "description": "You can predefine file types and their icons from the backend. When you upload a specific file type, its corresponding icon appears with the file on the frontend. This not only makes the attachment look good but also informs the customers what file type they are about to download.",
+        "image": {
+            "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/Upload-Multiple-File-Types-with-Attractive-Icons.png",
+            "alt": "Manage File Formats & Icons"
+        }
+    },
+    {
+        "__component": "blocks-icons-descriptions",
+        "iconCenterAlign": false,
+        "sectionBg": true,
+        "heading": "HOW MAGENTO 2 PRODUCT ATTACHMENTS BENEFITS YOU?",
+        "description": "Magento Full Page Cache helps optimize Magento speed by caching store pages. It reduces the load time, the server load, which helps ranking high at Google, and ultimately increasing the sales.",
+        "cards": [
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/icon-1.png",
+                    "alt": ""
+                },
+                "title": "Enrich Product Pages with Content",
+                "text": "You can add content in a great variety of formats as product attachments to make the landing pages more informative."
+            },
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/icon-2.png",
+                    "alt": ""
+                },
+                "title": "Manage Product Documentation",
+                "text": "Manage all the downloadable files on a dedicated page and control its distribution with download limits."
+            },
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/.renditions/wysiwyg/icon-3.png",
+                    "alt": ""
+                },
+                "title": "Pursue Higher Conversion Rate",
+                "text": "Provide maximum product information with interactive media and content formats to pursue higher conversions."
+            }
+        ]
+    },
+    {
+        "__component": "blocks-product-feature-twocols",
+        "sectionBg": false,
+        "leftImage": false,
+        "heading": "Attach Files To Products & CMS Pages",
+        "description": "ou need to make your product page as informative as possible to help customers fully understand the product and make a purchase decision. The product attachments extension for Magento 2 creates an attachment tab on your product page and/or a separate file download page that displays all the files you have attached to the product. The extension supports pdf, txt, See Use Cases with Examples & Demos Here",
+        "image": {
+            "url": "",
+            "alt": ""
+        }
+    },
+    {
+        "__component": "blocks-product-feature-twocols",
+        "sectionBg": true,
+        "leftImage": true,
+        "heading": "Attach Files To Products & CMS Pages",
+        "description": "ou need to make your product page as informative as possible to help customers fully understand the product and make a purchase decision. The product attachments extension for Magento 2 creates an attachment tab on your product page and/or a separate file download page that displays all the files you have attached to the product. The extension supports pdf, txt, See Use Cases with Examples & Demos Here",
+        "image": {
+            "url": "",
+            "alt": ""
+        }
+    }
+]
+
+[
+    {
+        "__component": "blocks-services-twocol",
+        "leftImage": false,
+        "heading": "MINIMUM LOAD TIME = MAXIMUM CONVERSIONS",
+        "descriptions": [
+            "Research has shown that 47% of customers expect your website to load within 2 or less than 2 seconds. After that, your customers will resort to page abandonment. In this research, 25% of the customers were found to abandon a website if it took 3-4 seconds to load. This not only damages user experience, but also takes the website rankings to a nose dive. For all leading search engines such as Google, website speed is a prime factor that determines its position in their search results.",
+            "Now that it is settled how important speed optimization is to your website, FME extensions offers professionals’ optimization service package for Magento server and speed optimization. Our experts are well aware how slow website loading can potentially damage your business. Through a systematic process our team understands your store needs, analyzes its existing setup, and implements all the necessary changes for better Magento 2 performance optimization."
+        ],
+        "image": {
+            "url": "https://beta.fmeextensions.com/media/wysiwyg/servicesTowCol.webp",
+            "alt": ""
+        }
+    },
+    {
+        "__component": "blocks-services-icons-description",
+        "heading": "WHAT WE USE FOR MAGENTO 2 OPTIMIZATION?",
+        "description": "Magento Full Page Cache helps optimize Magento speed by caching store pages. It reduces the load time, the server load, which helps ranking high at Google, and ultimately increasing the sales. It also includes, compressing of images, theme & extensions code validation and enabling flat catalog for small stores. Here is a list of other features you get with our Magento 2 speed optimization package.",
+        "cards": [
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/wysiwyg/service_icon_1.webp",
+                    "alt": ""
+                },
+                "title": "FULL PAGE CACHE",
+                "text": "Our expert developers will optimize Magento speed by caching store pages. It reduces the load time, the server load, which helps ranking high at Google, and ultimately increasing the sales."
+            },
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/wysiwyg/service_icon_2.webp",
+                    "alt": ""
+                },
+                "title": "REDIS SERVER",
+                "text": "It’s an advanced server that we use for session and backend storage. It provides better eviction control and supports multiple databases for Magento server optimization."
+            },
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/wysiwyg/service_icon_3.webp",
+                    "alt": ""
+                },
+                "title": "APC",
+                "text": "We use Alternate PHP Cache to provide a robust framework for caching PHP intermediate code. It helps having duplicate PHP script executions, which are optimized for efficient running."
+            },
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/wysiwyg/service_icon_5.webp",
+                    "alt": ""
+                },
+                "title": "MYSQL OPTIMIZATION AND CONFIGURATION",
+                "text": "Optimizing and configuring MySQL helps improving the performance by 65%. We work on optimizing the MySQL Queries to help fast loading of Magento."
+            },
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/wysiwyg/service_icon_4.webp",
+                    "alt": ""
+                },
+                "title": "SERVER CONFIGURATION",
+                "text": "Other than having an efficient web server, its configuration is needed for optimizing the server performance. It helps improving the speed of your Magento store."
+            },
+            {
+                "image": {
+                    "url": "https://beta.fmeextensions.com/media/wysiwyg/service_icon_6.webp",
+                    "alt": ""
+                },
+                "title": "OPTIMIZATION OF MEDIA FILES",
+                "text": "Un-optimized media files are often the roots cause of slow loading page in ecommerce website. We optimize all media elements, compressing their size so you get a pixel perfect store with faster loading speed. "
+            }
+        ],
+        "text": "Other than having a stunning store design and custom functionalities, speed optimization in Magento 2 is integral to impress Google and to convince customers. Our experienced Magento 2 optimization developers follow the best practices and standards while working on frontend and backend development. Performance testing in Magento helps us understand how successful we are in our efforts and where to improve.",
+        "help_text": "Need to help in Magento Migration?",
+        "button": {
+            "text": "Request a Quote",
+            "href": "/contact-us"
+        }
+    },
+    {
+        "__component": "blocks-services-twocol",
+        "sectionBg": false,
+        "leftImage": false,
+        "heading": "HOW WE OPTIMIZE MAGENTO 2 PERFORMANCE AND SPEED?",
+        "descriptions": [
+            "Additional server configurations help in improving Magento speed, which is easier to do, but the core problem needs in depth knowledge and experience with Magento core architecture. We work both on Magento code and server environment to come up at optimized speed of the Magento store. For that, we perform complex analysis of your store including the server and Magento 2 speed optimization aspects. We do that the following ways:"
+        ],
+        "subDescriptions": [
+            "Are you facing slow speed of your Magento store? Contact us for free consultation. Let our Magento developers utilize their expertise and experience to speed up your store.",
+            "It’s your business; it’s your domain; experience growth with optimal Magento 2 performance. We are here to help you out!"
+        ],
+        "options": [
+            {
+                "list": [
+                    "We check your server environment settings and tweak for best fit.",
+                    "We check your Magento settings for any flaws and correct them.",
+                    "We optimize Magento code by checking any 3rd party modules creating any conflicts and resolve them.",
+                    "We optimize frontend features to enhance the website speed.",
+                    "We perform Magento profiling investigation of your Magento store and resolve issues causing slow performance.",
+                    "We optimize database performance by analyzing slow database queries and then optimizing MySQL queries."
+                ]
+            }
+        ],
+        "image": {
+            "url": "https://beta.fmeextensions.com/media/wysiwyg/servicesTowCol-2.webp",
+            "alt": ""
+        }
+    }
+]
+{
+    "__component":"blocks-home-banner",
+    "image": {
+        "url": "https://beta.fmeextensions.com/media/wysiwyg/Home-Banner.webp",
+        "alt": "alt",
+        "title": "title"
+    },
+    "title": "Push Your Magento Store Limits",
+    "heading": "Solution provider for e-commerce businesses",
+    "button": {
+        "href": "/shop-now",
+        "target": "",
+        "text": "Shop Now"
+    }
+}

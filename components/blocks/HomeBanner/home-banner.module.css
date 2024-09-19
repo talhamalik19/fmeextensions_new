@@ -1,0 +1,10 @@
+.homeBannerBackground {
+    background-image: var(--bg-image, none);
+  }
+
+  @media screen and (max-width: 767px) {
+    .homeBannerBackground {
+      background-image: none;
+      background-color: #FCEFE8;
+    }
+  }

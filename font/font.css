@@ -1,0 +1,58 @@
+/* Roboto */
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 300;
+  src: url(Roboto-Light.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 400;
+  src: url(Roboto-Regular.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-weight: 500;
+  src: url(Roboto-Medium.ttf);
+  font-display: swap;
+}
+
+/* Sarabun Font */
+
+
+@font-face {
+  font-family: 'Sarabun' ;
+  font-weight: 700;
+  src: url(Sarabun-Bold.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sarabun';
+  font-weight: 600;
+  src: url(Sarabun-SemiBold.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sarabun';
+  font-weight: 500;
+  src: url(Sarabun-Medium.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sarabun' ;
+  font-weight: 400;
+  src: url(Sarabun-Regular.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sarabun' ;
+  font-weight: 300;
+  src: url(Sarabun-Light.ttf);
+  font-display: swap;
+}

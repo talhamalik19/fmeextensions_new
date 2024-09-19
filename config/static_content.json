@@ -1,0 +1,976 @@
+{
+  "static_text": {
+    "en": {
+      "links": [
+        {
+          "button": [
+            {
+              "field_text": "Submit a Review | Submit",
+              "field_redirect": "add-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Ask a Question",
+              "field_redirect": "/contact-us",
+              "field_target": ""
+            },
+            {
+              "field_text": "Book a Live Demo",
+              "field_redirect": "https://calendly.com/fmeextensions/30min",
+              "field_target": "_blank"
+            },
+            {
+              "field_text": "Buy Now",
+              "field_redirect": "buy-now",
+              "field_target": ""
+            },
+            {
+              "field_text": "Add to Cart",
+              "field_redirect": "cart-button",
+              "field_target": ""
+            },
+            {
+              "field_text": "Customize this Extension",
+              "field_redirect": "/request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Live Demo",
+              "field_redirect": "live-demo",
+              "field_target": ""
+            },
+            {
+              "field_text": "See M1 Version",
+              "field_redirect": "m1-version",
+              "field_target": ""
+            },
+            {
+              "field_text": "Request a Quote",
+              "field_redirect": "request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Submit Review",
+              "field_redirect": "submit-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "User Guide",
+              "field_redirect": "user-guide",
+              "field_target": ""
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "text": "Free Updates",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod_update.webp",
+              "alt": "prod update"
+            }
+          ]
+        },
+        {
+          "text": "45 Days Money Back",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/4/5/45days.webp",
+              "alt": "45days"
+            }
+          ]
+        },
+        {
+          "text": "Free Support",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod-support.webp",
+              "alt": "prod-support"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "field_text": "Buy Now",
+        "field_redirect": null,
+        "field_target": null
+      },
+      "external_link": {
+        "field_text": "",
+        "field_redirect": "https://commercemarketplace.adobe.com/partner/FMEExtensions",
+        "field_target": "_blank"
+      },
+      "videoIcon": [
+        {
+          "url": "https://datam2.fmeextensions.com/media/fme/customblock/v/i/video_icon.webp",
+          "alt": "video icon"
+        }
+      ]
+    },
+    "fr": {
+      "links": [
+        {
+          "button": [
+            {
+              "field_text": "Soumettre un avis | Soumettre",
+              "field_redirect": "add-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Poser une question",
+              "field_redirect": "/contact-us",
+              "field_target": ""
+            },
+            {
+              "field_text": "Réserver une démo en direct",
+              "field_redirect": "https://calendly.com/fmeextensions/30min",
+              "field_target": "_blank"
+            },
+            {
+              "field_text": "Acheter maintenant",
+              "field_redirect": "buy-now",
+              "field_target": ""
+            },
+            {
+              "field_text": "Ajouter au panier",
+              "field_redirect": "cart-button",
+              "field_target": ""
+            },
+            {
+              "field_text": "Personnaliser cette extension",
+              "field_redirect": "/request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Démo en direct",
+              "field_redirect": "live-demo",
+              "field_target": ""
+            },
+            {
+              "field_text": "Voir la version M1",
+              "field_redirect": "m1-version",
+              "field_target": ""
+            },
+            {
+              "field_text": "Demander un devis",
+              "field_redirect": "request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Soumettre un avis",
+              "field_redirect": "submit-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Guide de l'utilisateur",
+              "field_redirect": "user-guide",
+              "field_target": ""
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "text": "Mises à jour gratuites",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod_update.webp",
+              "alt": "mise à jour du produit"
+            }
+          ]
+        },
+        {
+          "text": "45 jours de remboursement",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/4/5/45days.webp",
+              "alt": "45 jours"
+            }
+          ]
+        },
+        {
+          "text": "Support gratuit",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod-support.webp",
+              "alt": "support produit"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "field_text": "Acheter maintenant",
+        "field_redirect": null,
+        "field_target": null
+      },
+      "external_link": {
+        "field_text": "",
+        "field_redirect": "https://commercemarketplace.adobe.com/partner/FMEExtensions",
+        "field_target": "_blank"
+      },
+      "videoIcon": [
+        {
+          "url": "https://datam2.fmeextensions.com/media/fme/customblock/v/i/video_icon.webp",
+          "alt": "icône vidéo"
+        }
+      ]
+    },
+    "de": {
+      "links": [
+        {
+          "button": [
+            {
+              "field_text": "Bewertung abgeben | Abgeben",
+              "field_redirect": "add-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Frage stellen",
+              "field_redirect": "/contact-us",
+              "field_target": ""
+            },
+            {
+              "field_text": "Live-Demo buchen",
+              "field_redirect": "https://calendly.com/fmeextensions/30min",
+              "field_target": "_blank"
+            },
+            {
+              "field_text": "Jetzt kaufen",
+              "field_redirect": "buy-now",
+              "field_target": ""
+            },
+            {
+              "field_text": "In den Warenkorb",
+              "field_redirect": "cart-button",
+              "field_target": ""
+            },
+            {
+              "field_text": "Diese Erweiterung anpassen",
+              "field_redirect": "/request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Live-Demo",
+              "field_redirect": "live-demo",
+              "field_target": ""
+            },
+            {
+              "field_text": "M1-Version ansehen",
+              "field_redirect": "m1-version",
+              "field_target": ""
+            },
+            {
+              "field_text": "Angebot anfordern",
+              "field_redirect": "request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Bewertung einreichen",
+              "field_redirect": "submit-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Benutzerhandbuch",
+              "field_redirect": "user-guide",
+              "field_target": ""
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "text": "Kostenlose Updates",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod_update.webp",
+              "alt": "Produktupdate"
+            }
+          ]
+        },
+        {
+          "text": "45 Tage Geld-zurück-Garantie",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/4/5/45days.webp",
+              "alt": "45 Tage"
+            }
+          ]
+        },
+        {
+          "text": "Kostenloser Support",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod-support.webp",
+              "alt": "Produkt-Support"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "field_text": "Jetzt kaufen",
+        "field_redirect": null,
+        "field_target": null
+      },
+      "external_link": {
+        "field_text": "",
+        "field_redirect": "https://commercemarketplace.adobe.com/partner/FMEExtensions",
+        "field_target": "_blank"
+      },
+      "videoIcon": [
+        {
+          "url": "https://datam2.fmeextensions.com/media/fme/customblock/v/i/video_icon.webp",
+          "alt": "Video-Icon"
+        }
+      ]
+    },
+    "nl": {
+      "links": [
+        {
+          "button": [
+            {
+              "field_text": "Beoordeling indienen | Indienen",
+              "field_redirect": "add-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Stel een vraag",
+              "field_redirect": "/contact-us",
+              "field_target": ""
+            },
+            {
+              "field_text": "Plan een live demo",
+              "field_redirect": "https://calendly.com/fmeextensions/30min",
+              "field_target": "_blank"
+            },
+            {
+              "field_text": "Nu kopen",
+              "field_redirect": "buy-now",
+              "field_target": ""
+            },
+            {
+              "field_text": "Toevoegen aan winkelwagentje",
+              "field_redirect": "cart-button",
+              "field_target": ""
+            },
+            {
+              "field_text": "Deze uitbreiding aanpassen",
+              "field_redirect": "/request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Live demo",
+              "field_redirect": "live-demo",
+              "field_target": ""
+            },
+            {
+              "field_text": "Bekijk M1-versie",
+              "field_redirect": "m1-version",
+              "field_target": ""
+            },
+            {
+              "field_text": "Offerte aanvragen",
+              "field_redirect": "request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Beoordeling indienen",
+              "field_redirect": "submit-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Gebruikershandleiding",
+              "field_redirect": "user-guide",
+              "field_target": ""
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "text": "Gratis updates",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod_update.webp",
+              "alt": "productupdate"
+            }
+          ]
+        },
+        {
+          "text": "45 dagen geld-terug-garantie",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/4/5/45days.webp",
+              "alt": "45 dagen"
+            }
+          ]
+        },
+        {
+          "text": "Gratis ondersteuning",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod-support.webp",
+              "alt": "productondersteuning"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "field_text": "Nu kopen",
+        "field_redirect": null,
+        "field_target": null
+      },
+      "external_link": {
+        "field_text": "",
+        "field_redirect": "https://commercemarketplace.adobe.com/partner/FMEExtensions",
+        "field_target": "_blank"
+      },
+      "videoIcon": [
+        {
+          "url": "https://datam2.fmeextensions.com/media/fme/customblock/v/i/video_icon.webp",
+          "alt": "video-icoon"
+        }
+      ]
+    },
+    "ru": {
+      "links": [
+        {
+          "button": [
+            {
+              "field_text": "Оставить отзыв | Отправить",
+              "field_redirect": "add-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Задать вопрос",
+              "field_redirect": "/contact-us",
+              "field_target": ""
+            },
+            {
+              "field_text": "Запланировать демонстрацию",
+              "field_redirect": "https://calendly.com/fmeextensions/30min",
+              "field_target": "_blank"
+            },
+            {
+              "field_text": "Купить сейчас",
+              "field_redirect": "buy-now",
+              "field_target": ""
+            },
+            {
+              "field_text": "Добавить в корзину",
+              "field_redirect": "cart-button",
+              "field_target": ""
+            },
+            {
+              "field_text": "Настроить это расширение",
+              "field_redirect": "/request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Живое демонстрация",
+              "field_redirect": "live-demo",
+              "field_target": ""
+            },
+            {
+              "field_text": "Посмотреть версию M1",
+              "field_redirect": "m1-version",
+              "field_target": ""
+            },
+            {
+              "field_text": "Запросить предложение",
+              "field_redirect": "request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Оставить отзыв",
+              "field_redirect": "submit-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Руководство пользователя",
+              "field_redirect": "user-guide",
+              "field_target": ""
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "text": "Бесплатные обновления",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod_update.webp",
+              "alt": "обновление продукта"
+            }
+          ]
+        },
+        {
+          "text": "45 дней возврата денег",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/4/5/45days.webp",
+              "alt": "45 дней"
+            }
+          ]
+        },
+        {
+          "text": "Бесплатная поддержка",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod-support.webp",
+              "alt": "поддержка продукта"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "field_text": "Купить сейчас",
+        "field_redirect": null,
+        "field_target": null
+      },
+      "external_link": {
+        "field_text": "",
+        "field_redirect": "https://commercemarketplace.adobe.com/partner/FMEExtensions",
+        "field_target": "_blank"
+      },
+      "videoIcon": [
+        {
+          "url": "https://datam2.fmeextensions.com/media/fme/customblock/v/i/video_icon.webp",
+          "alt": "иконка видео"
+        }
+      ]
+    },
+    "it": {
+      "links": [
+        {
+          "button": [
+            {
+              "field_text": "Invia una recensione | Invia",
+              "field_redirect": "add-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Fai una domanda",
+              "field_redirect": "/contact-us",
+              "field_target": ""
+            },
+            {
+              "field_text": "Prenota una demo dal vivo",
+              "field_redirect": "https://calendly.com/fmeextensions/30min",
+              "field_target": "_blank"
+            },
+            {
+              "field_text": "Compra ora",
+              "field_redirect": "buy-now",
+              "field_target": ""
+            },
+            {
+              "field_text": "Aggiungi al carrello",
+              "field_redirect": "cart-button",
+              "field_target": ""
+            },
+            {
+              "field_text": "Personalizza questa estensione",
+              "field_redirect": "/request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Demo dal vivo",
+              "field_redirect": "live-demo",
+              "field_target": ""
+            },
+            {
+              "field_text": "Guarda la versione M1",
+              "field_redirect": "m1-version",
+              "field_target": ""
+            },
+            {
+              "field_text": "Richiedi un preventivo",
+              "field_redirect": "request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Invia recensione",
+              "field_redirect": "submit-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Guida dell'utente",
+              "field_redirect": "user-guide",
+              "field_target": ""
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "text": "Aggiornamenti gratuiti",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod_update.webp",
+              "alt": "aggiornamento prodotto"
+            }
+          ]
+        },
+        {
+          "text": "45 giorni di garanzia di rimborso",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/4/5/45days.webp",
+              "alt": "45 giorni"
+            }
+          ]
+        },
+        {
+          "text": "Supporto gratuito",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod-support.webp",
+              "alt": "supporto prodotto"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "field_text": "Compra ora",
+        "field_redirect": null,
+        "field_target": null
+      },
+      "external_link": {
+        "field_text": "",
+        "field_redirect": "https://commercemarketplace.adobe.com/partner/FMEExtensions",
+        "field_target": "_blank"
+      },
+      "videoIcon": [
+        {
+          "url": "https://datam2.fmeextensions.com/media/fme/customblock/v/i/video_icon.webp",
+          "alt": "icona video"
+        }
+      ]
+    },
+    "es": {
+      "links": [
+        {
+          "button": [
+            {
+              "field_text": "Enviar una reseña | Enviar",
+              "field_redirect": "add-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Hacer una pregunta",
+              "field_redirect": "/contact-us",
+              "field_target": ""
+            },
+            {
+              "field_text": "Reservar una demostración en vivo",
+              "field_redirect": "https://calendly.com/fmeextensions/30min",
+              "field_target": "_blank"
+            },
+            {
+              "field_text": "Comprar ahora",
+              "field_redirect": "buy-now",
+              "field_target": ""
+            },
+            {
+              "field_text": "Añadir al carrito",
+              "field_redirect": "cart-button",
+              "field_target": ""
+            },
+            {
+              "field_text": "Personalizar esta extensión",
+              "field_redirect": "/request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Demostración en vivo",
+              "field_redirect": "live-demo",
+              "field_target": ""
+            },
+            {
+              "field_text": "Ver versión M1",
+              "field_redirect": "m1-version",
+              "field_target": ""
+            },
+            {
+              "field_text": "Solicitar un presupuesto",
+              "field_redirect": "request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Enviar reseña",
+              "field_redirect": "submit-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Guía del usuario",
+              "field_redirect": "user-guide",
+              "field_target": ""
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "text": "Actualizaciones gratuitas",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod_update.webp",
+              "alt": "actualización del producto"
+            }
+          ]
+        },
+        {
+          "text": "45 días de garantía de devolución de dinero",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/4/5/45days.webp",
+              "alt": "45 días"
+            }
+          ]
+        },
+        {
+          "text": "Soporte gratuito",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod-support.webp",
+              "alt": "soporte del producto"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "field_text": "Comprar ahora",
+        "field_redirect": null,
+        "field_target": null
+      },
+      "external_link": {
+        "field_text": "",
+        "field_redirect": "https://commercemarketplace.adobe.com/partner/FMEExtensions",
+        "field_target": "_blank"
+      },
+      "videoIcon": [
+        {
+          "url": "https://datam2.fmeextensions.com/media/fme/customblock/v/i/video_icon.webp",
+          "alt": "icono de video"
+        }
+      ]
+    },
+    "pt": {
+      "links": [
+        {
+          "button": [
+            {
+              "field_text": "Enviar uma Avaliação | Enviar",
+              "field_redirect": "add-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Fazer uma Pergunta",
+              "field_redirect": "/contact-us",
+              "field_target": ""
+            },
+            {
+              "field_text": "Agendar uma Demonstração ao Vivo",
+              "field_redirect": "https://calendly.com/fmeextensions/30min",
+              "field_target": "_blank"
+            },
+            {
+              "field_text": "Comprar Agora",
+              "field_redirect": "buy-now",
+              "field_target": ""
+            },
+            {
+              "field_text": "Adicionar ao Carrinho",
+              "field_redirect": "cart-button",
+              "field_target": ""
+            },
+            {
+              "field_text": "Personalizar esta Extensão",
+              "field_redirect": "/request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Demonstração ao Vivo",
+              "field_redirect": "live-demo",
+              "field_target": ""
+            },
+            {
+              "field_text": "Ver Versão M1",
+              "field_redirect": "m1-version",
+              "field_target": ""
+            },
+            {
+              "field_text": "Solicitar um Orçamento",
+              "field_redirect": "request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Enviar Avaliação",
+              "field_redirect": "submit-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Guia do Usuário",
+              "field_redirect": "user-guide",
+              "field_target": ""
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "text": "Atualizações Gratuitas",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod_update.webp",
+              "alt": "atualização do produto"
+            }
+          ]
+        },
+        {
+          "text": "45 Dias de Garantia de Devolução do Dinheiro",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/4/5/45days.webp",
+              "alt": "45 dias"
+            }
+          ]
+        },
+        {
+          "text": "Suporte Gratuito",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod-support.webp",
+              "alt": "suporte ao produto"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "field_text": "Comprar Agora",
+        "field_redirect": null,
+        "field_target": null
+      },
+      "external_link": {
+        "field_text": "",
+        "field_redirect": "https://commercemarketplace.adobe.com/partner/FMEExtensions",
+        "field_target": "_blank"
+      },
+      "videoIcon": [
+        {
+          "url": "https://datam2.fmeextensions.com/media/fme/customblock/v/i/video_icon.webp",
+          "alt": "ícone de vídeo"
+        }
+      ]
+    },
+    "pl": {
+      "links": [
+        {
+          "button": [
+            {
+              "field_text": "Prześlij recenzję | Prześlij",
+              "field_redirect": "add-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Zadaj pytanie",
+              "field_redirect": "/contact-us",
+              "field_target": ""
+            },
+            {
+              "field_text": "Zarezerwuj demo na żywo",
+              "field_redirect": "https://calendly.com/fmeextensions/30min",
+              "field_target": "_blank"
+            },
+            {
+              "field_text": "Kup teraz",
+              "field_redirect": "buy-now",
+              "field_target": ""
+            },
+            {
+              "field_text": "Dodaj do koszyka",
+              "field_redirect": "cart-button",
+              "field_target": ""
+            },
+            {
+              "field_text": "Dostosuj tę rozszerzenie",
+              "field_redirect": "/request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Demo na żywo",
+              "field_redirect": "live-demo",
+              "field_target": ""
+            },
+            {
+              "field_text": "Zobacz wersję M1",
+              "field_redirect": "m1-version",
+              "field_target": ""
+            },
+            {
+              "field_text": "Poproś o wycenę",
+              "field_redirect": "request-a-quote",
+              "field_target": ""
+            },
+            {
+              "field_text": "Prześlij recenzję",
+              "field_redirect": "submit-review",
+              "field_target": ""
+            },
+            {
+              "field_text": "Przewodnik użytkownika",
+              "field_redirect": "user-guide",
+              "field_target": ""
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "text": "Bezpłatne aktualizacje",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod_update.webp",
+              "alt": "aktualizacja produktu"
+            }
+          ]
+        },
+        {
+          "text": "45 dni gwarancji zwrotu pieniędzy",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/4/5/45days.webp",
+              "alt": "45 dni"
+            }
+          ]
+        },
+        {
+          "text": "Bezpłatne wsparcie",
+          "icon": [
+            {
+              "url": "https://datam2.fmeextensions.com/media/fme/customblock/p/r/prod-support.webp",
+              "alt": "wsparcie produktu"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "field_text": "Kup teraz",
+        "field_redirect": null,
+        "field_target": null
+      },
+      "external_link": {
+        "field_text": "",
+        "field_redirect": "https://commercemarketplace.adobe.com/partner/FMEExtensions",
+        "field_target": "_blank"
+      },
+      "videoIcon": [
+        {
+          "url": "https://datam2.fmeextensions.com/media/fme/customblock/v/i/video_icon.webp",
+          "alt": "ikona wideo"
+        }
+      ]
+    }
+  }
+}
